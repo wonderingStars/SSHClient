@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	key           = "AKIAZIGQD7TRCDC44ICG"
+	key           = "key.pem"
 	publicIPNPort = "192.168.0.1:22"
 )
 
